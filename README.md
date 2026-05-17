@@ -20,7 +20,5 @@ Você pode visualizar a versão funcional de alguns projetos através do **GitHu
 
 👉 **[Link para o seu GitHub Pages aqui]**
 
----
 
----
 *Este repositório foi desenvolvido como parte de uma Entrega Intermediária acadêmica.*
