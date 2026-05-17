@@ -8,7 +8,7 @@ Estudante de tecnologia focado em desenvolver soluções eficientes e construir 
 ##  Tecnologias e Interesses
 Tenho grande interesse e venho aprimorando minhas competências nas seguintes tecnologias:
 
-* **Linguagens de Programação:** Python.
+* **Linguagens de Programação:** Python, C#, Java
 * **Desenvolvimento Web (Front-end):** HTML5 e CSS3.
 * **Banco de Dados:** SQL.
 
