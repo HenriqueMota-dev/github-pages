@@ -5,7 +5,7 @@ Estudante de tecnologia focado em desenvolver soluções eficientes e construir 
 
 -  Atualmente cursando ensino superior (Engenharia de Sofwtare).
 
-## 🛠️ Tecnologias e Interesses
+##  Tecnologias e Interesses
 Tenho grande interesse e venho aprimorando minhas competências nas seguintes tecnologias:
 
 * **Linguagens de Programação:** Python.
@@ -15,8 +15,8 @@ Tenho grande interesse e venho aprimorando minhas competências nas seguintes te
 
 ---
 
-## 🌐 Projetos em Destaque
-[cite_start]Você pode visualizar a versão funcional de alguns projetos através do **GitHub Pages**[cite: 18, 48]:
+##  Projetos em Destaque
+Você pode visualizar a versão funcional de alguns projetos através do **GitHub Pages**:
 
 👉 **[Link para o seu GitHub Pages aqui]**
 
